@@ -1,0 +1,111 @@
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.exe
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.dll
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.UserAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.UserAPI.props
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserAPI.props
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserAPI.props
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.dll
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.exe
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\JWTAuthenticationManager.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\JWTAuthenticationManager.pdb
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.UserAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.UserAPI.props
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserAPI.props
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserAPI.props
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CopyComplete
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.exe
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.deps.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.runtimeconfig.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\UserAPI.pdb
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\JWTAuthenticationManager.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\JWTAuthenticationManager.pdb
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.csproj.AssemblyReference.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfoInputs.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.AssemblyInfo.cs
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.UserAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.UserAPI.props
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserAPI.props
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserAPI.props
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\scopedcss\bundle\UserAPI.styles.css
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.csproj.CopyComplete
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\refint\UserAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.pdb
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\UserAPI.genruntimeconfig.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\obj\Debug\net6.0\ref\UserAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\UserAPI\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll

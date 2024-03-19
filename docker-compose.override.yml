@@ -1,0 +1,71 @@
+version: '3.4'
+
+services:
+  eureka-server:
+    hostname: eureka-server
+    image: steeltoeoss/eurekaserver:latest
+    environment:
+      - EUREKA_SERVER_ENABLE_SELF_PRESERVATION=false
+    ports:
+      - "8761:8761"
+
+services:
+  apigateway:
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5111:80"
+    depends_on:
+      - eureka-server
+      - userapi
+      - productapi
+      - checkoutapi
+      - cartapi
+
+  userapi:
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+    depends_on:
+      - eureka-server
+
+  productapi:
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+    depends_on:
+      - eureka-server
+      - rabbitmq
+
+  checkoutapi:
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+    depends_on:
+      - eureka-server
+
+  cartapi:
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+    depends_on:
+      - eureka-server
+      - rabbitmq
+
+
+
+

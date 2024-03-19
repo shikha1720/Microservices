@@ -1,0 +1,146 @@
+{
+  "Routes": [
+    // User
+    {
+      "UpstreamPathTemplate": "/User/{everything}",
+      "UpstreamHttpMethod": [ "Post", "GET" ],
+      "UseServiceDiscovery": true,
+      "DownstreamScheme": "http",
+      "ServiceName": "UserAPI",
+      //"DownstreamHostAndPorts": [
+      //  {
+      //    "Host": "localhost",
+      //    "Port": 5199
+      //  }
+      //],
+      "DownstreamPathTemplate": "/api/User/{everything}",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    },
+    //Checkout
+    {
+      "DownstreamPathTemplate": "/api/Checkout/{everything}",
+      "UpstreamPathTemplate": "/Checkout/{everything}",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "CheckoutAPI",
+      //"DownstreamHostAndPorts": [
+      //  {
+      //    "Host": "localhost",
+      //    "Port": 5083
+      //  }
+      //],
+      "UpstreamHttpMethod": [ "GET" ],
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+
+    },
+    //Cart
+    {
+      "DownstreamPathTemplate": "/api/Cart/{everything}",
+      "UpstreamPathTemplate": "/Cart/{everything}",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "CartAPI",
+      //"DownstreamHostAndPorts": [
+      //  {
+      //    "Host": "localhost",
+      //    "Port": 5268
+      //  }
+      //],
+      "UpstreamHttpMethod": [ "GET", "POST", "DELETE" ],
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "RouteClaimsRequirement": {
+        "Role": "User"
+      }
+
+    },
+    //Product
+    {
+      "DownstreamPathTemplate": "/api/Product/addToCart",
+      "UpstreamPathTemplate": "/Product/addToCart",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "ProductAPI",
+      //"DownstreamHostAndPorts": [
+      //  {
+      //    "Host": "localhost",
+      //    "Port": 5127
+      //  }
+      //],
+      "UpstreamHttpMethod": [ "POST" ],
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "RouteClaimsRequirement": {
+        "Role": "User"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/Product/{everything}",
+      "UpstreamPathTemplate": "/Product/{everything}",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "ProductAPI",
+      //"DownstreamHostAndPorts": [
+      //  {
+      //    "Host": "localhost",
+      //    "Port": 5127
+      //  }
+      //],
+      "UpstreamHttpMethod": [ "GET" ],
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/api/Product/{everything}",
+      "UpstreamPathTemplate": "/Product/{everything}",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "ProductAPI",
+      //"DownstreamHostAndPorts": [
+      //  {
+      //    "Host": "localhost",
+      //    "Port": 5127
+      //  }
+      //],
+      "UpstreamHttpMethod": [ "POST", "DELETE" ],
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      },
+      "RouteClaimsRequirement": {
+        "Role": "Administrator"
+      }
+
+    }
+
+  ],
+  "GlobalConfiguration": {
+    //"BaseUrl": "http://localhost:5111",
+    //"RequestIdKey": "OcRequestId",
+    //"DownstreamScheme": "http",
+    "UseServiceDiscovery": true,
+    "ServiceDiscoveryProvider": {
+      "Host": "gateway",
+      "Port": 80,
+      "Type": "Eureka"
+    }
+  }
+}

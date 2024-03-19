@@ -1,0 +1,68 @@
+version: '3.4'
+
+
+services:
+  rabbitmq:
+    container_name: "rabbitmq"
+    image: rabbitmq:3-management
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    ports:
+      # RabbitMq instance
+      - '5672:5672'
+      # web interface
+      - '15672:15672'
+    networks:
+      - my-network
+
+  eureka-server:
+    container_name: eureka-server
+    image: steeltoeoss/eurekaserver:latest
+    restart: on-failure
+    hostname: eureka-server
+    networks:
+      - my-network
+
+  apigateway:
+    image: ${DOCKER_REGISTRY-}apigateway
+    build:
+      context: .
+      dockerfile: Gateway/ApiGateway/Dockerfile
+    networks:
+      - my-network
+
+  userapi:
+    image: ${DOCKER_REGISTRY-}userapi
+    build:
+      context: .
+      dockerfile: Services/UserAPI/Dockerfile
+    networks:
+      - my-network
+
+  productapi:
+    image: ${DOCKER_REGISTRY-}productapi
+    build:
+      context: .
+      dockerfile: Services/ProductAPI/Dockerfile
+    networks:
+      - my-network
+
+  checkoutapi:
+    image: ${DOCKER_REGISTRY-}checkoutapi
+    build:
+      context: .
+      dockerfile: Services/CheckoutAPI/Dockerfile
+    networks:
+      - my-network
+
+  cartapi:
+    image: ${DOCKER_REGISTRY-}cartapi
+    build:
+      context: .
+      dockerfile: Services/CartAPI/Dockerfile
+    networks:
+      - my-network
+
+networks:
+  my-network:

@@ -1,0 +1,92 @@
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.exe
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.deps.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.runtimeconfig.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.dll
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.pdb
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.csproj.AssemblyReference.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.AssemblyInfoInputs.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.AssemblyInfo.cs
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.csproj.CoreCompileInputs.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.CartAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CartAPI.props
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CartAPI.props
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CartAPI.props
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\scopedcss\bundle\CartAPI.styles.css
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.dll
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\refint\CartAPI.dll
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.pdb
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.genruntimeconfig.cache
+C:\Users\shikhajain01\OneDrive - Nagarro\Desktop\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\ref\CartAPI.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.exe
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.deps.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.runtimeconfig.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.pdb
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.csproj.AssemblyReference.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.AssemblyInfoInputs.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.AssemblyInfo.cs
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.csproj.CoreCompileInputs.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.CartAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CartAPI.props
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CartAPI.props
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CartAPI.props
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\scopedcss\bundle\CartAPI.styles.css
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\refint\CartAPI.dll
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.pdb
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.genruntimeconfig.cache
+C:\Users\ankitsingh13\Downloads\Ecom_MicroservicesAss\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\ref\CartAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.exe
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.deps.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.runtimeconfig.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\CartAPI.pdb
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.csproj.AssemblyReference.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.AssemblyInfoInputs.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.AssemblyInfo.cs
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.csproj.CoreCompileInputs.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.CartAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CartAPI.props
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CartAPI.props
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CartAPI.props
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\scopedcss\bundle\CartAPI.styles.css
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\refint\CartAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.pdb
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.genruntimeconfig.cache
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\ref\CartAPI.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Common.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Common.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\obj\Debug\net6.0\CartAPI.csproj.CopyComplete
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shikhajain01\Downloads\Ecom_MicroservicesAss\Services\CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
